@@ -3,7 +3,7 @@ your character information will be stored in result.json (will be disappear afte
 
 *************************************************************************************************
 *************************************************************************************************
-To use this: 
+To run the program in Linux: 
   1. Download curl by running:
        sudo apt install libcurl4-openssl-dev
   2. Compile the program in main folder by:
@@ -41,4 +41,5 @@ this project at your own risk.
 
 version 1.0
 By Dropkick
+
 Nov 26, 2025
