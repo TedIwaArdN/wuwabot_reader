@@ -37,7 +37,7 @@ public:
 
 // map for echoset names
 const static std::map<std::string, std::string> echoset_en_to_cn{
-	{"KNOWN", "未收录声骸套装"},
+	{"UNKNOWN", "未收录声骸套装"},
 	{"Freezing Frost", "凝夜白霜"},
 	{"Molten Rift", "熔山裂谷"},
 	{"Void Thunder", "彻空冥雷"},
@@ -61,3 +61,4 @@ const static std::map<std::string, std::string> echoset_en_to_cn{
 	{"Flamewing's Shadow", "焚羽猎魔之影"},
 	{"Thread of Severed Fate", "命理崩毁之弦"}
 };
+
